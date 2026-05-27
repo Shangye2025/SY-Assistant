@@ -1,0 +1,67 @@
+{
+  "name": "匕首左蓄连招-b2以后的ca抓捏蓝.combo",
+  "version": 1,
+  "created_at": 1779595772,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 430,
+      "hold_ms": 809
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 1308,
+      "hold_ms": 359
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 33,
+      "hold_ms": 340
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 233,
+      "hold_ms": 139
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 875,
+      "hold_ms": 407
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 727,
+      "hold_ms": 311
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 50,
+      "hold_ms": 249
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 721,
+      "hold_ms": 303
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 57,
+      "hold_ms": 241
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 662,
+      "hold_ms": 170
+    }
+  ]
+}

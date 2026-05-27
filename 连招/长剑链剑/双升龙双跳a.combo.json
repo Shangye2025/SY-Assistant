@@ -1,0 +1,91 @@
+{
+  "name": "双升龙双跳a.combo",
+  "version": 1,
+  "created_at": 1779594808,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 2379,
+      "hold_ms": 116
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 506,
+      "hold_ms": 372
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 44,
+      "hold_ms": 294
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 224,
+      "hold_ms": 121
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 463,
+      "hold_ms": 779
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 34,
+      "hold_ms": 153
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 314,
+      "hold_ms": 402
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 103,
+      "hold_ms": 172
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1256,
+      "hold_ms": 265
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 7,
+      "hold_ms": 211
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 504,
+      "hold_ms": 1684
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 516,
+      "hold_ms": 121
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 869,
+      "hold_ms": 154
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 66,
+      "hold_ms": 159
+    }
+  ]
+}

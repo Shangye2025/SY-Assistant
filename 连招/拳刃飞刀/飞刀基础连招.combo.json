@@ -1,0 +1,97 @@
+{
+  "name": "飞刀基础连招.combo",
+  "version": 1,
+  "created_at": 1779596956,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 325,
+      "hold_ms": 94
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 455,
+      "hold_ms": 388
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 52,
+      "hold_ms": 315
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 211,
+      "hold_ms": 134
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 473,
+      "hold_ms": 849
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 41,
+      "hold_ms": 170
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 287,
+      "hold_ms": 447
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 92,
+      "hold_ms": 173
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 474,
+      "hold_ms": 965
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 175,
+      "hold_ms": 755
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 1056,
+      "hold_ms": 102
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 678,
+      "hold_ms": 157
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 834,
+      "hold_ms": 472
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 62,
+      "hold_ms": 172
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 108,
+      "hold_ms": 180
+    }
+  ]
+}

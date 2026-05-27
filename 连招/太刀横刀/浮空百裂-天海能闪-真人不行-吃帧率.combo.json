@@ -1,0 +1,103 @@
+{
+  "name": "浮空百裂-天海能闪-真人不行-吃帧率.combo",
+  "version": 1,
+  "created_at": 1779595393,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 1385,
+      "hold_ms": 77
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 389,
+      "hold_ms": 445
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 46,
+      "hold_ms": 361
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 242,
+      "hold_ms": 110
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 481,
+      "hold_ms": 838
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 30,
+      "hold_ms": 195
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 364,
+      "hold_ms": 379
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 61,
+      "hold_ms": 158
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 408,
+      "hold_ms": 1503
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 98,
+      "hold_ms": 828
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 1064,
+      "hold_ms": 82
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 132,
+      "hold_ms": 90
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 411,
+      "hold_ms": 116
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 49,
+      "hold_ms": 80
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 151,
+      "hold_ms": 1628
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 54,
+      "hold_ms": 1566
+    }
+  ]
+}

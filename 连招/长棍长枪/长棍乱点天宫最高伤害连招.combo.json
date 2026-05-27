@@ -1,0 +1,97 @@
+{
+  "name": "长棍乱点天宫最高伤害连招.combo",
+  "version": 1,
+  "created_at": 1779596612,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 394,
+      "hold_ms": 1221
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 1792,
+      "hold_ms": 138
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 636,
+      "hold_ms": 126
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 265,
+      "hold_ms": 102
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 214,
+      "hold_ms": 79
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 177,
+      "hold_ms": 65
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 720,
+      "hold_ms": 77
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 27,
+      "hold_ms": 93
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 178,
+      "hold_ms": 941
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 875,
+      "hold_ms": 107
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 344,
+      "hold_ms": 91
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 165,
+      "hold_ms": 84
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 135,
+      "hold_ms": 68
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 798,
+      "hold_ms": 542
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 56,
+      "hold_ms": 145
+    }
+  ]
+}

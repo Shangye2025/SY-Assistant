@@ -1,0 +1,373 @@
+{
+  "name": "双刀无限连.combo",
+  "version": 1,
+  "created_at": 1779600372,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 255,
+      "hold_ms": 108
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 434,
+      "hold_ms": 402
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 74,
+      "hold_ms": 303
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 211,
+      "hold_ms": 118
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 504,
+      "hold_ms": 305
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 40,
+      "hold_ms": 200
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 313,
+      "hold_ms": 2033
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 259,
+      "hold_ms": 75
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 164,
+      "hold_ms": 92
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 731,
+      "hold_ms": 127
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 106,
+      "hold_ms": 78
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 613,
+      "hold_ms": 107
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 35,
+      "hold_ms": 97
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 168,
+      "hold_ms": 84
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 170,
+      "hold_ms": 80
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 552,
+      "hold_ms": 116
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 488,
+      "hold_ms": 361
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 41,
+      "hold_ms": 325
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 262,
+      "hold_ms": 104
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 483,
+      "hold_ms": 785
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 32,
+      "hold_ms": 192
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 373,
+      "hold_ms": 317
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 73,
+      "hold_ms": 149
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 345,
+      "hold_ms": 1606
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 59,
+      "hold_ms": 1512
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 2375,
+      "hold_ms": 121
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 47,
+      "hold_ms": 74
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 522,
+      "hold_ms": 102
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 23,
+      "hold_ms": 113
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 152,
+      "hold_ms": 104
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 190,
+      "hold_ms": 90
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 567,
+      "hold_ms": 114
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 475,
+      "hold_ms": 368
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 49,
+      "hold_ms": 308
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 209,
+      "hold_ms": 112
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 478,
+      "hold_ms": 782
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 51,
+      "hold_ms": 175
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 339,
+      "hold_ms": 318
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 91,
+      "hold_ms": 126
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 337,
+      "hold_ms": 1638
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 70,
+      "hold_ms": 1518
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 2384,
+      "hold_ms": 119
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 68,
+      "hold_ms": 78
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 522,
+      "hold_ms": 105
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 23,
+      "hold_ms": 100
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 156,
+      "hold_ms": 89
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 706,
+      "hold_ms": 127
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 521,
+      "hold_ms": 385
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 50,
+      "hold_ms": 315
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 228,
+      "hold_ms": 100
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 463,
+      "hold_ms": 772
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 29,
+      "hold_ms": 178
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 378,
+      "hold_ms": 310
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 106,
+      "hold_ms": 120
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 299,
+      "hold_ms": 1646
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 25,
+      "hold_ms": 1592
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 2333,
+      "hold_ms": 339
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 29,
+      "hold_ms": 342
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 249,
+      "hold_ms": 117
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 377,
+      "hold_ms": 84
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 152,
+      "hold_ms": 107
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "4-钩锁蓄力-最基础的连招.combo",
+  "version": 1,
+  "created_at": 1779660189,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 452,
+      "hold_ms": 97
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 410,
+      "hold_ms": 368
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 40,
+      "hold_ms": 296
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 195,
+      "hold_ms": 123
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 511,
+      "hold_ms": 817
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 42,
+      "hold_ms": 170
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 373,
+      "hold_ms": 376
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 57,
+      "hold_ms": 137
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 366,
+      "hold_ms": 1623
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "扇子惊雷博弈-滑铲ca以后的b2是捏蓝博弈.combo",
+  "version": 1,
+  "created_at": 1779596029,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 155,
+      "hold_ms": 929
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 1692,
+      "hold_ms": 127
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 405,
+      "hold_ms": 196
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 35,
+      "hold_ms": 118
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 1117,
+      "hold_ms": 374
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 18,
+      "hold_ms": 366
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 215,
+      "hold_ms": 167
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 45,
+      "hold_ms": 112
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 874,
+      "hold_ms": 268
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 95,
+      "hold_ms": 191
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 724,
+      "hold_ms": 285
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 120,
+      "hold_ms": 177
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 563,
+      "hold_ms": 190
+    }
+  ]
+}

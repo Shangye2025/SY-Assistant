@@ -1,0 +1,85 @@
+{
+  "name": "赶路-太刀.combo",
+  "version": 1,
+  "created_at": 1779659967,
+  "steps": [
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 1457,
+      "hold_ms": 3758
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 46,
+      "hold_ms": 300
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 216,
+      "hold_ms": 324
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 638,
+      "hold_ms": 346
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 209,
+      "hold_ms": 300
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 558,
+      "hold_ms": 391
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 214,
+      "hold_ms": 474
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 732,
+      "hold_ms": 504
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 229,
+      "hold_ms": 316
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 681,
+      "hold_ms": 132
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 87,
+      "hold_ms": 116
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 9,
+      "hold_ms": 140
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 1411,
+      "hold_ms": 121
+    }
+  ]
+}

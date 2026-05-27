@@ -1,0 +1,139 @@
+{
+  "name": "双升龙985b双跳a.combo",
+  "version": 1,
+  "created_at": 1779594867,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 790,
+      "hold_ms": 113
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 514,
+      "hold_ms": 413
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 53,
+      "hold_ms": 315
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 206,
+      "hold_ms": 129
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 482,
+      "hold_ms": 748
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 35,
+      "hold_ms": 164
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 349,
+      "hold_ms": 336
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 51,
+      "hold_ms": 164
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1275,
+      "hold_ms": 267
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 21,
+      "hold_ms": 1030
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标侧键1",
+      "delay_ms": 513,
+      "hold_ms": 150
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 368,
+      "hold_ms": 111
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 44,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 13,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 12,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 11,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 305,
+      "hold_ms": 1440
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 66,
+      "hold_ms": 182
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 55,
+      "hold_ms": 114
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 159,
+      "hold_ms": 104
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 978,
+      "hold_ms": 132
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 37,
+      "hold_ms": 123
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "name": "拳刃刘炼.combo",
+  "version": 1,
+  "created_at": 1779601477,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 377,
+      "hold_ms": 103
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 438,
+      "hold_ms": 360
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 65,
+      "hold_ms": 252
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 153,
+      "hold_ms": 111
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 498,
+      "hold_ms": 805
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 41,
+      "hold_ms": 176
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 413,
+      "hold_ms": 319
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 100,
+      "hold_ms": 166
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 742,
+      "hold_ms": 524
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 22,
+      "hold_ms": 448
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 716,
+      "hold_ms": 94
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 176,
+      "hold_ms": 99
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 363,
+      "hold_ms": 92
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 171,
+      "hold_ms": 87
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 568,
+      "hold_ms": 109
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 116,
+      "hold_ms": 156
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 506,
+      "hold_ms": 519
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 69,
+      "hold_ms": 430
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 311,
+      "hold_ms": 154
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 514,
+      "hold_ms": 293
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 92,
+      "hold_ms": 203
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 512,
+      "hold_ms": 1847
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 147,
+      "hold_ms": 162
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 690,
+      "hold_ms": 139
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 47,
+      "hold_ms": 142
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 858,
+      "hold_ms": 120
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 51,
+      "hold_ms": 128
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 207,
+      "hold_ms": 102
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 369,
+      "hold_ms": 84
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 165,
+      "hold_ms": 69
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 151,
+      "hold_ms": 87
+    }
+  ]
+}

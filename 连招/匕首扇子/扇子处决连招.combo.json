@@ -1,0 +1,55 @@
+{
+  "name": "扇子处决连招.combo",
+  "version": 1,
+  "created_at": 1779595880,
+  "steps": [
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 672,
+      "hold_ms": 793
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 73,
+      "hold_ms": 138
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 316,
+      "hold_ms": 329
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 104,
+      "hold_ms": 127
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 179,
+      "hold_ms": 1757
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 107,
+      "hold_ms": 1699
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 2288,
+      "hold_ms": 148
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 77,
+      "hold_ms": 181
+    }
+  ]
+}

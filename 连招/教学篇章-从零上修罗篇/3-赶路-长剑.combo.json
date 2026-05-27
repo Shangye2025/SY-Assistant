@@ -1,0 +1,103 @@
+{
+  "name": "3-赶路-长剑.combo",
+  "version": 1,
+  "created_at": 1779660087,
+  "steps": [
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 723,
+      "hold_ms": 2445
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 58,
+      "hold_ms": 301
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 176,
+      "hold_ms": 126
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 466,
+      "hold_ms": 326
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 166,
+      "hold_ms": 157
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 516,
+      "hold_ms": 413
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 186,
+      "hold_ms": 146
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 589,
+      "hold_ms": 165
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 65,
+      "hold_ms": 179
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 40,
+      "hold_ms": 154
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 1394,
+      "hold_ms": 114
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 1101,
+      "hold_ms": 1273
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 168,
+      "hold_ms": 346
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 212,
+      "hold_ms": 126
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 487,
+      "hold_ms": 330
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 175,
+      "hold_ms": 169
+    }
+  ]
+}

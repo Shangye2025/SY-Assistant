@@ -1,0 +1,187 @@
+{
+  "name": "刘炼双刀无限连.combo",
+  "version": 1,
+  "created_at": 1779600873,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 355,
+      "hold_ms": 122
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 454,
+      "hold_ms": 421
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 77,
+      "hold_ms": 306
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 199,
+      "hold_ms": 129
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 498,
+      "hold_ms": 774
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 38,
+      "hold_ms": 178
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 312,
+      "hold_ms": 376
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 117,
+      "hold_ms": 183
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 1162,
+      "hold_ms": 91
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 550,
+      "hold_ms": 91
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 874,
+      "hold_ms": 113
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 131,
+      "hold_ms": 358
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 614,
+      "hold_ms": 464
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 66,
+      "hold_ms": 380
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 249,
+      "hold_ms": 159
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 461,
+      "hold_ms": 820
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 81,
+      "hold_ms": 160
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 315,
+      "hold_ms": 372
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 81,
+      "hold_ms": 177
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 424,
+      "hold_ms": 1517
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 95,
+      "hold_ms": 1409
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 2078,
+      "hold_ms": 85
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 343,
+      "hold_ms": 93
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 188,
+      "hold_ms": 83
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 168,
+      "hold_ms": 75
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 160,
+      "hold_ms": 85
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 176,
+      "hold_ms": 109
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 858,
+      "hold_ms": 178
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 449,
+      "hold_ms": 87
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 163,
+      "hold_ms": 86
+    }
+  ]
+}

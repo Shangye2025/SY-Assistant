@@ -1,0 +1,49 @@
+{
+  "name": "长棍长枪基础连招.combo",
+  "version": 1,
+  "created_at": 1779596792,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 298,
+      "hold_ms": 124
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 662,
+      "hold_ms": 784
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 27,
+      "hold_ms": 180
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 388,
+      "hold_ms": 310
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 116,
+      "hold_ms": 133
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 279,
+      "hold_ms": 1704
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 74,
+      "hold_ms": 1595
+    }
+  ]
+}

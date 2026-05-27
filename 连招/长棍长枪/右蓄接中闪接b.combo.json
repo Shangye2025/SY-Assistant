@@ -1,0 +1,31 @@
+{
+  "name": "右蓄接中闪接b.combo",
+  "version": 1,
+  "created_at": 1779596428,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 270,
+      "hold_ms": 851
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 2049,
+      "hold_ms": 479
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 381,
+      "hold_ms": 106
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 530,
+      "hold_ms": 142
+    }
+  ]
+}

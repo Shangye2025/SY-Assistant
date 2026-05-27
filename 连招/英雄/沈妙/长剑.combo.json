@@ -1,0 +1,109 @@
+{
+  "name": "长剑.combo",
+  "version": 1,
+  "created_at": 1779599146,
+  "steps": [
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 725,
+      "hold_ms": 108
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 44,
+      "hold_ms": 64
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 34,
+      "hold_ms": 109
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 618,
+      "hold_ms": 183
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 28,
+      "hold_ms": 1072
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标侧键1",
+      "delay_ms": 524,
+      "hold_ms": 144
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 401,
+      "hold_ms": 90
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 40,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 12,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 10,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 388,
+      "hold_ms": 1345
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 24,
+      "hold_ms": 139
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 52,
+      "hold_ms": 112
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 179,
+      "hold_ms": 96
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 161,
+      "hold_ms": 89
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 698,
+      "hold_ms": 141
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 57,
+      "hold_ms": 145
+    }
+  ]
+}

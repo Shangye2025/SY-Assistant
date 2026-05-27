@@ -1,0 +1,67 @@
+{
+  "name": "双截棍钩锁蓄力-b2抓捏蓝.combo",
+  "version": 1,
+  "created_at": 1779596133,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 813,
+      "hold_ms": 78
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 508,
+      "hold_ms": 431
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 45,
+      "hold_ms": 348
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 245,
+      "hold_ms": 118
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 483,
+      "hold_ms": 742
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 47,
+      "hold_ms": 178
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 314,
+      "hold_ms": 302
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 104,
+      "hold_ms": 130
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 279,
+      "hold_ms": 1676
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 48,
+      "hold_ms": 1598
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "长棍单刀最高伤连招.combo",
+  "version": 1,
+  "created_at": 1779596550,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 846,
+      "hold_ms": 78
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 559,
+      "hold_ms": 276
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 47,
+      "hold_ms": 1335
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 205,
+      "hold_ms": 1133
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标侧键1",
+      "delay_ms": 533,
+      "hold_ms": 163
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 405,
+      "hold_ms": 184
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 24,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 18,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 11,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 357,
+      "hold_ms": 95
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 5,
+      "hold_ms": 101
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 218,
+      "hold_ms": 968
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 838,
+      "hold_ms": 102
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 436,
+      "hold_ms": 84
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 160,
+      "hold_ms": 85
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 765,
+      "hold_ms": 664
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 144,
+      "hold_ms": 155
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "name": "剑斩f无大招.combo",
+  "version": 1,
+  "created_at": 1779597351,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 354,
+      "hold_ms": 142
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 514,
+      "hold_ms": 392
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 55,
+      "hold_ms": 308
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 252,
+      "hold_ms": 126
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 459,
+      "hold_ms": 825
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 63,
+      "hold_ms": 180
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 348,
+      "hold_ms": 370
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 91,
+      "hold_ms": 193
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1216,
+      "hold_ms": 281
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 34,
+      "hold_ms": 177
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 529,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 14,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 14,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 14,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 17,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 284,
+      "hold_ms": 325
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 27,
+      "hold_ms": 281
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 177,
+      "hold_ms": 110
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 527,
+      "hold_ms": 132
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 827,
+      "hold_ms": 152
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 46,
+      "hold_ms": 97
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 212,
+      "hold_ms": 1138
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 179,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 18,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 14,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 17,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 108,
+      "hold_ms": 695
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 1301,
+      "hold_ms": 82
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 800,
+      "hold_ms": 596
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 928,
+      "hold_ms": 494
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 53,
+      "hold_ms": 425
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 277,
+      "hold_ms": 175
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 484,
+      "hold_ms": 799
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 73,
+      "hold_ms": 216
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 319,
+      "hold_ms": 369
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 98,
+      "hold_ms": 172
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1211,
+      "hold_ms": 253
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 36,
+      "hold_ms": 156
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 513,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 15,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 12,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 11,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 12,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 18,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 328,
+      "hold_ms": 326
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 27,
+      "hold_ms": 280
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 157,
+      "hold_ms": 102
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 555,
+      "hold_ms": 149
+    }
+  ]
+}

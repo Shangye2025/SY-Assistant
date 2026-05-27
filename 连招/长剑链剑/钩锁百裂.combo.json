@@ -1,0 +1,61 @@
+{
+  "name": "钩锁百裂.combo",
+  "version": 1,
+  "created_at": 1779594758,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 818,
+      "hold_ms": 109
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 492,
+      "hold_ms": 413
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 55,
+      "hold_ms": 350
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 229,
+      "hold_ms": 118
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 491,
+      "hold_ms": 794
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 33,
+      "hold_ms": 167
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 332,
+      "hold_ms": 424
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 93,
+      "hold_ms": 141
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 349,
+      "hold_ms": 1633
+    }
+  ]
+}

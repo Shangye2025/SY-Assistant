@@ -1,0 +1,151 @@
+{
+  "name": "棍阔-新手需学.combo",
+  "version": 1,
+  "created_at": 1779595697,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 719,
+      "hold_ms": 86
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 667,
+      "hold_ms": 281
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 41,
+      "hold_ms": 173
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 574,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 20,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 17,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 15,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 22,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 351,
+      "hold_ms": 338
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 21,
+      "hold_ms": 296
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 173,
+      "hold_ms": 88
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 520,
+      "hold_ms": 139
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 886,
+      "hold_ms": 140
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 35,
+      "hold_ms": 78
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 201,
+      "hold_ms": 1021
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 241,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 18,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 16,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 13,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 22,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 616,
+      "hold_ms": 89
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 545,
+      "hold_ms": 149
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1021,
+      "hold_ms": 352
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 81,
+      "hold_ms": 240
+    }
+  ]
+}

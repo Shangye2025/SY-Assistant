@@ -1,0 +1,67 @@
+{
+  "name": "双持左蓄高伤连招.combo",
+  "version": 1,
+  "created_at": 1779596333,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 577,
+      "hold_ms": 822
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 2047,
+      "hold_ms": 799
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 147,
+      "hold_ms": 147
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 512,
+      "hold_ms": 130
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 48,
+      "hold_ms": 100
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 181,
+      "hold_ms": 1112
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 6,
+      "hold_ms": 1071
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1389,
+      "hold_ms": 257
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 44,
+      "hold_ms": 216
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 612,
+      "hold_ms": 198
+    }
+  ]
+}

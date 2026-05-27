@@ -1,0 +1,31 @@
+{
+  "name": "跳v+蓄力.combo",
+  "version": 1,
+  "created_at": 1779599059,
+  "steps": [
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 806,
+      "hold_ms": 98
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 41,
+      "hold_ms": 77
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 71,
+      "hold_ms": 112
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 142,
+      "hold_ms": 1250
+    }
+  ]
+}

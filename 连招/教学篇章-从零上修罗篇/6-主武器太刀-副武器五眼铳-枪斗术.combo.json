@@ -1,0 +1,253 @@
+{
+  "name": "6-主武器太刀-副武器五眼铳-枪斗术.combo",
+  "version": 1,
+  "created_at": 1779660848,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 448,
+      "hold_ms": 970
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 833,
+      "hold_ms": 111
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 32,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 22,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 17,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 33,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 218,
+      "hold_ms": 396
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 58,
+      "hold_ms": 347
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 208,
+      "hold_ms": 129
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 358,
+      "hold_ms": 254
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 46,
+      "hold_ms": 221
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 128,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 13,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 15,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 17,
+      "hold_ms": 967
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 13,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 822,
+      "hold_ms": 125
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 35,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 19,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 15,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 24,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 197,
+      "hold_ms": 436
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 50,
+      "hold_ms": 387
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 246,
+      "hold_ms": 146
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 341,
+      "hold_ms": 338
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 58,
+      "hold_ms": 310
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 212,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 19,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 22,
+      "hold_ms": 790
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 2,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 743,
+      "hold_ms": 117
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 35,
+      "hold_ms": 173
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 86,
+      "hold_ms": 102
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 634,
+      "hold_ms": 132
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 150,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 14,
+      "hold_ms": 117
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 2,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 11,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 13,
+      "hold_ms": 20
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 298,
+      "hold_ms": 262
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 38,
+      "hold_ms": 239
+    }
+  ]
+}

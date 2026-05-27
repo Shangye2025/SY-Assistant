@@ -1,0 +1,91 @@
+{
+  "name": "a闪a升龙蓄力.combo",
+  "version": 1,
+  "created_at": 1779596251,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 386,
+      "hold_ms": 101
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 441,
+      "hold_ms": 409
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 41,
+      "hold_ms": 342
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 244,
+      "hold_ms": 116
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 438,
+      "hold_ms": 790
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 43,
+      "hold_ms": 176
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 330,
+      "hold_ms": 362
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 107,
+      "hold_ms": 144
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 364,
+      "hold_ms": 1649
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 76,
+      "hold_ms": 1526
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 2249,
+      "hold_ms": 327
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 32,
+      "hold_ms": 323
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 205,
+      "hold_ms": 150
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 457,
+      "hold_ms": 93
+    }
+  ]
+}

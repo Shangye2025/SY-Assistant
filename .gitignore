@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+build/
+dist/
+*.spec
+
+combo_coach_settings.json
+.idea/
+.vscode/
+

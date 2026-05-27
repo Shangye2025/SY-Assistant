@@ -1,0 +1,115 @@
+{
+  "name": "匕首后续连招-一般扎满3下即可.combo",
+  "version": 1,
+  "created_at": 1779595824,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 286,
+      "hold_ms": 822
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 1886,
+      "hold_ms": 431
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 30,
+      "hold_ms": 386
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 304,
+      "hold_ms": 141
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 33,
+      "hold_ms": 125
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 230,
+      "hold_ms": 2380
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 425,
+      "hold_ms": 104
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 164,
+      "hold_ms": 101
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 152,
+      "hold_ms": 86
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 149,
+      "hold_ms": 73
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 144,
+      "hold_ms": 99
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 753,
+      "hold_ms": 132
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 41,
+      "hold_ms": 96
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 172,
+      "hold_ms": 97
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 178,
+      "hold_ms": 71
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 138,
+      "hold_ms": 87
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 188,
+      "hold_ms": 103
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 162,
+      "hold_ms": 106
+    }
+  ]
+}

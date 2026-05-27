@@ -1,0 +1,175 @@
+{
+  "name": "沈妙连招太刀完整版.combo",
+  "version": 1,
+  "created_at": 1779599272,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 221,
+      "hold_ms": 107
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 416,
+      "hold_ms": 357
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 49,
+      "hold_ms": 290
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 189,
+      "hold_ms": 125
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 475,
+      "hold_ms": 898
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 76,
+      "hold_ms": 193
+    },
+    {
+      "action": "键盘",
+      "key": "Q",
+      "delay_ms": 341,
+      "hold_ms": 440
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 77,
+      "hold_ms": 177
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 1300,
+      "hold_ms": 189
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 27,
+      "hold_ms": 139
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 231,
+      "hold_ms": 2515
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 175,
+      "hold_ms": 94
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 182,
+      "hold_ms": 84
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 165,
+      "hold_ms": 74
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 151,
+      "hold_ms": 69
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 132,
+      "hold_ms": 89
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 674,
+      "hold_ms": 118
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 59,
+      "hold_ms": 87
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 142,
+      "hold_ms": 65
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 132,
+      "hold_ms": 76
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 146,
+      "hold_ms": 86
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 151,
+      "hold_ms": 65
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 141,
+      "hold_ms": 52
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 121,
+      "hold_ms": 79
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 400,
+      "hold_ms": 91
+    },
+    {
+      "action": "键盘",
+      "key": "V",
+      "delay_ms": 22,
+      "hold_ms": 89
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 71,
+      "hold_ms": 107
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 162,
+      "hold_ms": 1208
+    }
+  ]
+}

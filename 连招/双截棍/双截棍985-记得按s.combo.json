@@ -1,0 +1,97 @@
+{
+  "name": "双截棍985-记得按s.combo",
+  "version": 1,
+  "created_at": 1779596089,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 795,
+      "hold_ms": 112
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 501,
+      "hold_ms": 420
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 51,
+      "hold_ms": 326
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 211,
+      "hold_ms": 119
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 510,
+      "hold_ms": 259
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 54,
+      "hold_ms": 1700
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 162,
+      "hold_ms": 1356
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标侧键1",
+      "delay_ms": 374,
+      "hold_ms": 141
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 343,
+      "hold_ms": 108
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 39,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 14,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 10,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 9,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 1051,
+      "hold_ms": 131
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 204,
+      "hold_ms": 91
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "拳刃高伤基础连招.combo",
+  "version": 1,
+  "created_at": 1779596883,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 359,
+      "hold_ms": 123
+    },
+    {
+      "action": "键盘",
+      "key": "S",
+      "delay_ms": 480,
+      "hold_ms": 369
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 50,
+      "hold_ms": 294
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 152,
+      "hold_ms": 124
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 497,
+      "hold_ms": 306
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 77,
+      "hold_ms": 241
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 658,
+      "hold_ms": 168
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 591,
+      "hold_ms": 145
+    },
+    {
+      "action": "键盘",
+      "key": "C",
+      "delay_ms": 708,
+      "hold_ms": 342
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 44,
+      "hold_ms": 234
+    }
+  ]
+}

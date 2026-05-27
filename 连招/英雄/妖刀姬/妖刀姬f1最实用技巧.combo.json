@@ -1,0 +1,79 @@
+{
+  "name": "妖刀姬f1最实用技巧.combo",
+  "version": 1,
+  "created_at": 1779601662,
+  "steps": [
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 965,
+      "hold_ms": 79
+    },
+    {
+      "action": "键盘",
+      "key": "F",
+      "delay_ms": 596,
+      "hold_ms": 97
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 684,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 16,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 12,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 9,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 8,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 281,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 10,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 8,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "滚轮下",
+      "delay_ms": 8,
+      "hold_ms": 20
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 10,
+      "hold_ms": 791
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "5-连续多次短闪-神魂颠倒.combo",
+  "version": 1,
+  "created_at": 1779660286,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 317,
+      "hold_ms": 1077
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 982,
+      "hold_ms": 117
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 29,
+      "hold_ms": 111
+    },
+    {
+      "action": "键盘",
+      "key": "D",
+      "delay_ms": 416,
+      "hold_ms": 116
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 34,
+      "hold_ms": 109
+    },
+    {
+      "action": "键盘",
+      "key": "A",
+      "delay_ms": 472,
+      "hold_ms": 90
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 12,
+      "hold_ms": 99
+    }
+  ]
+}

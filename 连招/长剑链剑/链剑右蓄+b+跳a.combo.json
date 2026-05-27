@@ -1,0 +1,43 @@
+{
+  "name": "链剑右蓄+b+跳a.combo",
+  "version": 1,
+  "created_at": 1779595143,
+  "steps": [
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 750,
+      "hold_ms": 848
+    },
+    {
+      "action": "键盘",
+      "key": "W",
+      "delay_ms": 1998,
+      "hold_ms": 1040
+    },
+    {
+      "action": "键盘",
+      "key": "Shift",
+      "delay_ms": 52,
+      "hold_ms": 337
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标右键",
+      "delay_ms": 196,
+      "hold_ms": 147
+    },
+    {
+      "action": "键盘",
+      "key": "空格",
+      "delay_ms": 506,
+      "hold_ms": 144
+    },
+    {
+      "action": "鼠标",
+      "key": "鼠标左键",
+      "delay_ms": 85,
+      "hold_ms": 146
+    }
+  ]
+}
